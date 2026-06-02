@@ -62,3 +62,20 @@ This Power BI dashboard analyzes road accident data to identify accident trends,
 - DAX Measures
 - Data Modeling
 - Business Intelligence
+
+- ## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Executive_Overview.png)
+
+### Driver Risk Analysis
+![Driver Risk Analysis](Driver_Risk_Analysis.png)
+
+### Environmental & Road Risk Analysis
+![Environmental Risk Analysis](Environmental_Risk_Analysis.png)
+
+### AI Insights - Key Influencers & Decision Tree
+![AI Insights](AI_Insights_Key_Influencers_Decision_Tree.png)
+
+### Strategic Recommendations & Key Insights
+![Strategic Recommendations](Strategic_Recommendations_and_Key_Insights.png)
